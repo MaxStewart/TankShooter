@@ -7,11 +7,7 @@
 		{
 			"Name": "WarTanks",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"AIModule"
-			]
+			"LoadingPhase": "Default"
 		}
 	]
 }
